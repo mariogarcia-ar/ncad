@@ -2,7 +2,7 @@
 
 El objetivo del proyecto es desplegar un *Smart Contract* desarrollado en solidity en la red *AURORA*. 
 
-Durante el mismo se expusieron los beneficios de utilizar Aurora como un ... entre Ethereum y NEAR. En especial el de poder reutilizar los desarrollos existentes en solidity, aprovechando los bajos costes para .... consenso ... y el sharding ... 
+Durante el mismo se expusieron los beneficios de utilizar Aurora como un Layer2 para Ethereum. En especial el de poder reutilizar los desarrollos existentes en solidity, aprovechando los bajos costes , escalabilidad y performance brindados por NEAR.
 
 ## Entregables
  - crear un Smart Contract en Solidity, que este funcional en la testnet.
