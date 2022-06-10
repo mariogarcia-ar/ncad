@@ -2,7 +2,7 @@
 pragma solidity ^0.8.4;
 contract TcoCompra {
     
-    uint public precio;                     // precio del articulo
+    uint256 public precio;                     // precio del articulo
     address payable public vendedor;       // direccion del vendedor
     address payable public comprador;        // direccion del comprador
 
