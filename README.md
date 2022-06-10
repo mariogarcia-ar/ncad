@@ -64,8 +64,9 @@ Solidity es un lenguaje de alto nivel orientado a Smart Contracts. Su sintaxis e
 Remix es un entorno integrado de desarrollo (IDE) basado en un navegador que integra un compilador y un entorno en tiempo de ejecución para Solidity sin los componentes orientados al servidor.
 
 Allí vamos a poder desarrollar y poner a prueba nuestros Smart Contracts de la forma más real posible. Incluso tendremos a nuestra disposición address ficticias cargadas con gas para poder así simular transacciones antes de llevar nuestro código a la aplicación. 
+ 
+[![Remix Tutorial](https://www.loom.com/share/efb2b2fb3114441ea30d28c528c86fca)](https://www.loom.com/share/efb2b2fb3114441ea30d28c528c86fca)
 
-![Remix Tutorial](https://www.loom.com/share/efb2b2fb3114441ea30d28c528c86fca)
 
 ## Día 3: Despliegue de un Contrato Inteligente en Aurora con Remix
 ## Día 4: Rainbow Bridge y Conocimientos Avanzados en Solidity
