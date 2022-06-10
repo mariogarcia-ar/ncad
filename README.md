@@ -34,7 +34,7 @@ Durante el mismo se expusieron los beneficios de utilizar Aurora como un ... ent
 [![TCO Contrato Tutorial](https://cdn.loom.com/sessions/thumbnails/77a933dc5619483d87b50d19139cd4c6-00001.mp4#t=0.1)](https://www.loom.com/share/77a933dc5619483d87b50d19139cd4c6)
 
 
-# Resumen de las ....
+# Clases
 ## Día 0: Recursos para antes de comenzar
 
 ### Aurora
@@ -69,8 +69,10 @@ Se pueden solicitar ETH en el Faucet de Aurora en la url https://aurora.dev/fauc
 ### Solidity
 Solidity es un lenguaje de alto nivel orientado a Smart Contracts. Su sintaxis es similar a la de JavaScript y está enfocado específicamente a la Máquina Virtual de Ethereum (EVM).
 
-### OpenZeppelin .....
-......
+### OpenZeppelin 
+El proyecto OpenZeppelin ofrece un entorno de desarrollo y un conjunto de herramientas que tienen como objetivo dotar de la mayor seguridad a las aplicaciones descentralizadas desarrolladas en el ecosistema Ethereum con Solidity.
+
+Nos ofrecen contratos para implementar NFT y FT, de una manera simple y sencilla.
 
 ## Día 2: Interacción con Contratos Inteligentes en Remix
 
@@ -97,5 +99,13 @@ Agregamos Aurora en  metamask
  
 
 ## Día 4: Rainbow Bridge y Conocimientos Avanzados en Solidity
-## Día 5: Demo Day 
 
+### Rainbow Bridge
+El Rainbow Bridge de NEAR es único en la criptografía como el puente que permitirme el transferir tokens sin permisos y sin confianza entre Ethereum y NEAR. Entre otras.
+
+
+
+
+
+## Día 5: Demo Day 
+Video explicando el funcionamiento.
