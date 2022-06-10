@@ -20,6 +20,20 @@ Durante el mismo se expusieron los beneficios de utilizar Aurora como un ... ent
 ## Keywords
 - Aurora Blockchain, Solidity, NEAR, Terminal, Git, Github, Unix, Remix.
 
+# Instalacion
+- ingresar a https://remix.ethereum.org/
+- instalar el plugin dgit (https://medium.com/remix-ide/github-in-remix-ide-356de378f7da)
+- realizar el checkout del proyecto https://github.com/mariogarcia-ar/ncad
+- compilar el contrato 10_TcoCompra.sol
+- conectar metamask con la cuenta de Aurora
+- como vendedor desplegar el contrato en aurora (validar que estamos usando el enviroment: injected web3) con un precio
+- como comprador realizar la compra, su confirmacion
+- como vendedor solicitar el pago 
+
+ 
+[![TCO Contrato Tutorial](https://cdn.loom.com/sessions/thumbnails/77a933dc5619483d87b50d19139cd4c6-00001.mp4#t=0.1)](https://www.loom.com/share/77a933dc5619483d87b50d19139cd4c6)
+
+
 # Resumen de las ....
 ## Día 0: Recursos para antes de comenzar
 
