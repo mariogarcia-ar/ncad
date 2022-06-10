@@ -65,10 +65,23 @@ Remix es un entorno integrado de desarrollo (IDE) basado en un navegador que int
 
 Allí vamos a poder desarrollar y poner a prueba nuestros Smart Contracts de la forma más real posible. Incluso tendremos a nuestra disposición address ficticias cargadas con gas para poder así simular transacciones antes de llevar nuestro código a la aplicación. 
  
-[![Remix Tutorial](https://www.loom.com/share/efb2b2fb3114441ea30d28c528c86fca)](https://www.loom.com/share/efb2b2fb3114441ea30d28c528c86fca)
+[![Remix Tutorial](https://cdn.loom.com/sessions/thumbnails/efb2b2fb3114441ea30d28c528c86fca-00001.mp4#t=0.1)](https://www.loom.com/share/efb2b2fb3114441ea30d28c528c86fca)
 
 
 ## Día 3: Despliegue de un Contrato Inteligente en Aurora con Remix
+
+### Ventajas Aurora vs Ethereum
+Aurora es una solución que permite ejecutar contratos de Ethereum en un entorno de mayor rendimiento: NEAR blockchain, una cadena de bloques moderna de capa 1 que es rápida (finalización de transacciones de 2 a 3 segundos), escalable y neutral en carbono. Aurora es una máquina virtual Ethereum (EVM) implementada como un contrato inteligente en el protocolo NEAR. Ayuda a escalar el ecosistema Ethereum para que los desarrolladores operen sus aplicaciones en una plataforma compatible con Ethereum, de alto rendimiento, escalable y segura para el futuro, con bajos costos de transacción para sus usuarios.
+
+- Tiempo de ejecución por transacción
+    - 2 sec Transaction finality
+    - $0.02 Transaction cost
+
+Agregamos Aurora en  metamask 
+[![Remix Tutorial](https://cdn.loom.com/sessions/thumbnails/b14f474bf2814c3dbb51ce8318a2c850-00001.mp4#t=0.1)](https://www.loom.com/share/b14f474bf2814c3dbb51ce8318a2c850)
+
+ 
+
 ## Día 4: Rainbow Bridge y Conocimientos Avanzados en Solidity
 ## Día 5: Demo Day 
 
